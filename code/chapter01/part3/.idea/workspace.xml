@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3754a9d1-448a-4635-9032-cefeb4a802f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/chapter01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part1/02_basis.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part1/03_types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part1/04_types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part2/.idea/part2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part2/src/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part2/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/part3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package" />
+        <option value="TypeScript File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1wqXwvCzhWTfpbXOkXRGaUdMTx8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3754a9d1-448a-4635-9032-cefeb4a802f6" name="Default Changelist" comment="" />
+      <created>1629187335057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629187335057</updated>
+      <workItem from="1629187336187" duration="1336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1629187399662">
+      <screen x="0" y="25" width="1920" height="991" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom/-1280.189.1280.775/0.25.1920.991@0.25.1920.991" timestamp="1629187399662" />
+    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1629187399661">
+      <screen x="0" y="25" width="1920" height="991" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.center/-1280.189.1280.775/0.25.1920.991@0.25.1920.991" timestamp="1629187399661" />
+    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1629187399660">
+      <screen x="0" y="25" width="1920" height="991" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.left/-1280.189.1280.775/0.25.1920.991@0.25.1920.991" timestamp="1629187399660" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1629187399662">
+      <screen x="0" y="25" width="1920" height="991" />
+    </state>
+    <state width="1899" height="266" key="GridCell.Tab.0.right/-1280.189.1280.775/0.25.1920.991@0.25.1920.991" timestamp="1629187399662" />
+  </component>
+</project>
